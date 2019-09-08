@@ -1,0 +1,33 @@
+ h1 {
+     font-size: 29px;
+     font-family: cursive;
+     border: 8px solid pink;
+     text-shadow: 4px 3px -4px -3px;
+     color: aqua;
+ }
+ 
+ body {
+     border: 2px solid black;
+ }
+ 
+ main p {
+     text-indent: 2em;
+     color: aqua;
+ }
+ 
+ header {
+     size: 22ch;
+ }
+ 
+ img {
+     padding-left: -15;
+     height: 8in;
+     width: 10;
+ }
+a:link{
+    color: blue;
+}
+a:hover , a:focus{
+    text-decoration: none;
+    font-size: 100%;
+}
